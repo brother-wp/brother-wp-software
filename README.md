@@ -14,3 +14,7 @@ The Brother Super PowerNote PN-8500MDSe Software was found and extraced from a b
 The LW-30 is a GCR-disk, LCD-screen model which is probably the
 German/French/Swiss version of the WP-1400D.
 
+# WP-1
+This looks like an early GCR-disk, glass-screen model, but it uses the 240kB
+GCR format rather than the 120kB format, so it may actually be later.
+
